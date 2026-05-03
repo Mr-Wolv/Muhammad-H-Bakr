@@ -50,8 +50,8 @@
 ---
 
 ### ⚡ Current Deep Dives
-* 📊 **Mathematical Optimization Theories** | Developing an Interactive Wordle Solver via Entropy.
-* 🏗️ **Systems Analysis & Design** | Advancing knowledge in scalable system design.
+* 📊 **Mathematical Optimization Theories**; Grasping more information on higher Maths for AI.
+* 🏗️ **Systems Analysis & Design**; Advancing knowledge in system design and SDLC.
 
 ---
 
