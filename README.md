@@ -1,3 +1,5 @@
+<p align="center"><i>"The only person better than yesterday’s me is tomorrow’s me."</i></p>
+
 <!-- Banner -->
 
 <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" width="100%" />
@@ -11,6 +13,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
+
 ### 🧠 About Me
 
 * 🎓 Graduate, Faculty of Science — Computer Science
@@ -18,6 +22,8 @@
 * 🔍 Driven by understanding **how things work under the hood**
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
 
 ### 🎯 Focus
 
@@ -29,7 +35,9 @@
 
 ---
 
-### 🚀 Featured Work
+<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
+
+### 🚀 Featured Work (Visit Repos)
 
 * 🧠 **Neural Networks Project**
 
@@ -48,6 +56,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
+
 ### ⚡ Currently Working On
 
 * Interactive Wordle Solver (**Entropy & Information Theory**)
@@ -56,22 +66,17 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
+
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,react,mongodb,linux&theme=dark" />
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
 
 ### ⏱️ Coding Activity
 
@@ -82,6 +87,8 @@
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
 
 ### 📊 Stats
 
