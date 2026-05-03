@@ -4,9 +4,8 @@
 <h1 align="center">Hi ✨, I'm Bakr</h1>
 <h3 align="center">Senior Computer Science Student</h3>
 
-<!-- Coding GIF -->
-<p align="right">
-  <img alt="Coding" width="350" src="https://c.tenor.com/VkwGHu4htYYAAAAd/tenor.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://c.tenor.com/VkwGHu4htYYAAAAd/tenor.gif">
 </p>
 
 ---
