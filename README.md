@@ -3,23 +3,23 @@
 <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" width="100%" />
 
 <h1 align="center">Hi There! ✨</h1>
-<h3 align="center"><i>I Engineer Logic into Systems ~</i></h3>
+<h3 align="center"><i>I Engineer Logic into Systems</i></h3>
 
 <p align="center">
-  <img src="https://c.tenor.com/VkwGHu4htYYAAAAd/tenor.gif" width="300">
+  <img src="https://c.tenor.com/VkwGHu4htYYAAAAd/tenor.gif" width="280">
 </p>
 
 ---
 
-### About Me
+### 🧠 About Me
 
-*  Graduated from Faculty of Science, Computer Science Department
-*  Focused on **Software Engineering, Algorithms & Systems**
-*  I care about **how things work under the hood**
+* 🎓 Graduate, Faculty of Science — Computer Science
+* ⚙️ Focused on **Software Engineering, Algorithms & Systems**
+* 🔍 Driven by understanding **how things work under the hood**
 
 ---
 
-### Focus
+### 🎯 Focus
 
 * Backend Systems (Java / Node.js / Python)
 * Database Design & Optimization
@@ -34,25 +34,25 @@
 * 🧠 **Neural Networks Project**
 
   * Built and experimented with learning models
-  * Focus on understanding inner mechanics, not just using libraries
+  * Focused on internal mechanics, not just frameworks
 
 * 🔐 **Cryptography Implementations**
 
-  * Core cryptographic concepts implemented from scratch
-  * Following textbook-level structure and transformations
+  * Implemented core algorithms from scratch
+  * Followed textbook-level transformations and structure
 
 * 🧩 **Problem Solving Repository**
 
-  * Continuous practice of DSA & algorithmic challenges
-  * Strong focus on logic, efficiency, and edge cases
+  * Continuous DSA and algorithmic practice
+  * Emphasis on efficiency, edge cases, and optimization
 
 ---
 
 ### ⚡ Currently Working On
 
-* Interactive Wordle Solver (Entropy & Information Theory)
+* Interactive Wordle Solver (**Entropy & Information Theory**)
 * Advancing system design knowledge
-* Deepening understanding of algorithms
+* Deepening algorithmic thinking
 
 ---
 
