@@ -1,11 +1,11 @@
 <p align="center"><i>"The only person better than yesterday’s me is tomorrow’s me."</i></p>
 
-<!-- Banner -->
-
 <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" width="100%" />
 
 <h1 align="center">Hi There! ✨</h1>
-<h3 align="center"><i>I Engineer Logic into Systems</i></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+Engineer+Logic+into+Systems;Under-the-hood+Architect;Problem+Solver+by+Nature" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://c.tenor.com/VkwGHu4htYYAAAAd/tenor.gif" width="280">
@@ -13,84 +13,61 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
+### 🧠 The Architect's Mindset
+> Driven by understanding **how things work under the hood**, from the bare metal to high-level abstractions.
 
-### 🧠 About Me
-
-* 🎓 Graduate, Faculty of Science — Computer Science
-* ⚙️ Focused on **Software Engineering, Algorithms & Systems**
-* 🔍 Driven by understanding **how things work under the hood**
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
-
-### 🎯 Focus
-
-* Backend Systems (Java / Node.js / Python)
-* Database Design & Optimization
-* Algorithms & Problem Solving
-* System Design
-* AI, ML & Data Science
+* 🎓 **Graduate** | Faculty of Science — Computer Science
+* ⚙️ **Specialization** | Software Engineering, Algorithms & Systems
+* 🔍 **Obsession** | Efficiency, internal mechanics, and textbook-perfect implementations
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
-
-### 🚀 Featured Work (Visit Repos)
-
-* 🧠 **Neural Networks Project**
-
-  * Built and experimented with learning models
-  * Focused on internal mechanics, not just frameworks
-
-* 🔐 **Cryptography Implementations**
-
-  * Implemented core algorithms from scratch
-  * Followed textbook-level transformations and structure
-
-* 🧩 **Problem Solving Repository**
-
-  * Continuous DSA and algorithmic practice
-  * Emphasis on efficiency, edge cases, and optimization
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
-
-### ⚡ Currently Working On
-
-* Interactive Wordle Solver (**Entropy & Information Theory**)
-* Advancing system design knowledge
-* Deepening algorithmic thinking
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,react,mongodb,linux&theme=dark" />
+### 🎯 Core Focus & Expertise
+<p align="left">
+  <table>
+    <tr>
+      <td><b>Backend & Systems</b></td>
+      <td>Java, Node.js, Python, System Design</td>
+    </tr>
+    <tr>
+      <td><b>Data Science</b></td>
+      <td>AI/ML, Database Optimization, Information Theory</td>
+    </tr>
+    <tr>
+      <td><b>Foundations</b></td>
+      <td>DSA, Cryptography, Low-level Logic</td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
+### 🚀 Featured Architectural Work
+* 🧠 **[Neural Networks Project]** — Built to understand the math, not just the library.
+* 🔐 **[Cryptography Implementations]** — Textbook-level transformations implemented from scratch.
+* 🧩 **[Problem Solving]** — A living archive of algorithmic efficiency and edge-case handling.
 
-### ⏱️ Coding Activity
+---
 
+### ⚡ Current Deep Dives
+* 📊 **Mathematical Optimization Theories** | Developing an Interactive Wordle Solver via Entropy.
+* 🏗️ **Systems Analysis & Design** | Advancing knowledge in scalable system design.
+
+---
+
+### 🧰 The Toolkit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,react,mongodb,linux,docker,git&theme=dark" />
+</p>
+
+---
+
+### 📊 Performance Metrics
 <p align="center">
   <a href="https://wakatime.com/@MHBakr">
-    <img src="https://wakatime.com/share/@MHBakr/69b00bca-8007-4db5-98c1-eddae7cce215.png" />
+    <img src="https://wakatime.com/share/@MHBakr/69b00bca-8007-4db5-98c1-eddae7cce215.png" width="80%" />
   </a>
 </p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750900-3f1e7c5b-6a5f-4c5b-9d6a-9a0f6c91a6b3.gif">
-
-### 📊 Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-Wolv&theme=2077" />
