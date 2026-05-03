@@ -2,7 +2,6 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" width="100%" />
 
-<h1 align="center">Hi There! ✨</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+Engineer+Logic+into+Systems;Under-the-hood+Architect;Problem+Solver+by+Nature" alt="Typing SVG" />
 </p>
